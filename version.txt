@@ -1,5 +1,8 @@
 streamlit==1.22.0
 requests==2.31.0
 streamlit-option-menu==0.3.6
+option-menu==0.3.6
 streamlit-lottie==0.0.3
+st_lottie==0.3
 pillow==9.5.0
+Images=9.5.0
