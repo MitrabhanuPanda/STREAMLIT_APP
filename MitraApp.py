@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
-# from streamlit_option_menu import option_menu
-# from streamlit_lottie import st_lottie
+from streamlit-option-menu import option-menu
+from streamlit-lottie import st-lottie
 from PIL import Image
 
 st.set_page_config(layout='wide')
