@@ -1,9 +1,5 @@
+Pillow==9.5.0
+requests==2.28.1
 streamlit==1.22.0
-streamlit_option_menu==0.3.2
-requests==2.31.0
-
-
-streamlit_lottie
-st_lottie
-pillow
-Images
+streamlit_lottie==0.0.3
+streamlit_option_menu==0.3.4
