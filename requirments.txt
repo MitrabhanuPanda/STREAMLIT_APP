@@ -1,7 +1,8 @@
 streamlit==1.22.0
+streamlit_option_menu==0.3.2
 requests==2.31.0
-streamlit-option-menu
-option-menu
+
+
 streamlit_lottie
 st_lottie
 pillow
